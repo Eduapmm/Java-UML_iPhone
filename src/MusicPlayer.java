@@ -3,4 +3,5 @@ public interface MusicPlayer {
     void pause();
     void next();
     void previous();
+    
 }

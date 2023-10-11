@@ -1,5 +1,6 @@
 public interface InternetBrowser {
-    void openURL(String url);
-    void browse();
-    void close();
+    void abrirURL(String url);
+    void atualizar();
+    void browser();
+    void fechar();
 }
